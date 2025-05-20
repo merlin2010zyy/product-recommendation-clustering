@@ -6,7 +6,7 @@ This project segments e-commerce customers using RFM analysis and applies hybrid
 - `product_recommendation.ipynb`: Main notebook with analysis and modeling
 - `requirements.txt`: List of dependencies
 - `Diagram`: List of diagrams used in the notbook
-- `ecommerce_data`: Dataset from [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data) 
+- `ecommerce_data.csv`: Dataset from [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data) 
 
 ## 🚀 Features
 - Customer segmentation via K-Means on RFM
